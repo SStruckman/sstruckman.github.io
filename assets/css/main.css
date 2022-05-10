@@ -2229,7 +2229,7 @@ input, select, textarea {
 
 	ol.pres {
         list-style: none;
-		counter-reset: pres 7;
+		counter-reset: pres 8;
         margin-left: 0;
         padding-left: 0;
     }
