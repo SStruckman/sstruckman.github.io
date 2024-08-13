@@ -2205,7 +2205,7 @@ input, select, textarea {
 
     ol.pubs {
         list-style: none;
-		counter-reset: pub 5;
+		counter-reset: pub 7;
         margin-left: 0;
         padding-left: 0;
     }
@@ -2229,7 +2229,7 @@ input, select, textarea {
 
 	ol.pres {
         list-style: none;
-		counter-reset: pres 8;
+		counter-reset: pres 10;
         margin-left: 0;
         padding-left: 0;
     }
